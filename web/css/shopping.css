@@ -1,0 +1,83 @@
+.icon {
+    width: 1em;
+    height: 1em;
+    vertical-align: -0.15em;
+    fill: currentColor;
+    overflow: hidden;
+}
+.activeColor{
+    color: #F22E00 !important;
+}
+.w {
+    width: 1190px;
+    margin: 0 auto;
+}
+.borderHeight{
+    padding: 50px 0;
+}
+.bgtop{
+    background-color:#F5F5F5 ;
+}
+.header {
+    background-color: #F5F5F5;
+}
+
+.header .tbtop {
+    margin: 0 auto;
+    height: 35px;
+}
+
+.header .tbtop a {
+    font-size: 12px;
+    color: #6C6C6C;
+    text-decoration: none;
+    display: block;
+}
+
+.header .tbtop .ulLfet {
+    margin-left: -50px;
+}
+
+/* .tbtop .ulRight {
+    margin-right: 180px;
+} */
+
+.header .tbtop .ulLfet li,
+.tbtop .ulRight li {
+    list-style: none;
+    line-height: 35px;
+}
+
+.header .tbtop .ulLfet li {
+    float: left;
+    margin-left: 10px;
+}
+
+.header .tbtop .ulLfet .logina a {
+    margin-right: 7px;
+}
+
+.header .tbtop .ulRight li {
+    float: left;
+    margin-right: 15px;
+}
+.title h1 .icon {
+    display: block;
+    font-size: 120px;
+
+}
+
+.title h2 {
+    font-size: 22px;
+    line-height: 120px;
+}
+/* .content{
+    padding: 20px 0;
+} */
+.footer .nav {
+    line-height: 88px;
+}
+
+.footer .nav a {
+    color: #666;
+}

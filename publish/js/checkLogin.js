@@ -1,0 +1,1 @@
+"use strict";$.cookie("isLogin")||(location.href="./login.html");
